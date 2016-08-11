@@ -37522,7 +37522,6 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "http://10.7.0.210/"
+    "customurlscheme": "moodlemobile"
 }
 );

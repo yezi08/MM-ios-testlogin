@@ -546,7 +546,7 @@
     "mma.mod_assign.duedatereached": "The due date for this assignment has now passed",
     "mma.mod_assign.editingstatus": "Editing status",
     "mma.mod_assign.editsubmission": "Edit submission",
-    "mma.mod_assign.erroreditpluginsnotsupported": "You cannot add or edit a submission in the app because some plugins aren't supported for editing:",
+    "mma.mod_assign.erroreditpluginsnotsupported": "Please add or edit a submission in the ICE website. Some plugins aren't supported in the mobile app for editing:",
     "mma.mod_assign.errorshowinginformation": "We can't display the submission information",
     "mma.mod_assign.extensionduedate": "Extension due date",
     "mma.mod_assign.feedback": "Feedback",
